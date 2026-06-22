@@ -1,4 +1,4 @@
-module github.com/guides/protos
+module github.com/aonokoi/guide-protos
 
 go 1.25.11
 
